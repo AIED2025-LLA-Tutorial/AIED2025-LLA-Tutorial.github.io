@@ -1,4 +1,4 @@
-# ACL 2025 Tutorial: NLP and Generative AI for Language Learning and Assessment
+# AIED 2025 Tutorial: NLP and Generative AI for Language Learning and Assessment
 
 The code is adapted from the [Nerfies website](https://nerfies.github.io).
 
